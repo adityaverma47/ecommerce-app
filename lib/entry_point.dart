@@ -51,6 +51,7 @@ class _EntryPointState extends State<EntryPoint> {
               Theme.of(context).iconTheme.color!, BlendMode.srcIn),
           height: 20,
           width: 100,
+
         ),
         actions: [
           IconButton(
